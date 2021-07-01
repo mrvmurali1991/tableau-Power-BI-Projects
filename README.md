@@ -9,3 +9,8 @@
 #### Day-9:[Quality Dashboard " by using PowerBI](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/tree/main/Day%209)
 #### Day-10:[Quality Dashboard " by using PowerBI](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/blob/main/Dy%20-10/superstore%20sales%20dashboard.png)
 #### Day-11:["Covid-19 dashboard " by using PowerBI](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/tree/main/Day%209)
+#### Day-12:[](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/tree/main/Day-13)
+#### Day-13:[](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/tree/main/Day-13)
+#### Day-14:[Comparative Analysis Dashboard](https://github.com/mrvmurali1991/tableau-Power-BI-Projects/tree/main/Day-14)
+#### Day-15:[]()
+
